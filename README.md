@@ -53,6 +53,17 @@ fake-job-posting-detection-nlp-svm/
 ├── requirements.txt
 └── images/
 
+## Visual Results
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Threshold Analysis
+![Threshold Analysis](images/threshold_analysis.png)
+
 ## Future Improvements
 - Incorporate structured metadata features  
 - Experiment with advanced models such as XGBoost or transformer-based NLP models  
