@@ -56,13 +56,13 @@ fake-job-posting-detection-nlp-svm/
 ## Visual Results
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve.PNG)
 
 ### Model Comparison
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/model_comparison.PNG)
 
 ### Threshold Analysis
-![Threshold Analysis](images/threshold_analysis.png)
+![Threshold Analysis](images/threshold_analysis.PNG)
 
 ## Future Improvements
 - Incorporate structured metadata features  
